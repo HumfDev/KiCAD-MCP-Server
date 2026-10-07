@@ -48,8 +48,10 @@
   "devDependencies": {
     "@cfworker/json-schema": "^4.1.1",
     "@eslint/js": "^10.0.1",
+    "@types/debug": "^4.1.13",
     "@types/express": "^5.0.5",
     "@types/glob": "^8.1.0",
+    "@types/ms": "^2.1.0",
     "@types/node": "^20.19.0",
     "eslint": "^10.1.0",
     "nodemon": "^3.0.1",
